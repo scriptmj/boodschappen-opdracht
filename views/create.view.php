@@ -12,7 +12,7 @@
         </tr>
         <tr>
             <td>Prijs: </td>
-            <td><input type="number" name="price"></td>
+            <td><input type="float" name="price"></td>
         </tr>
         <tr>
             <td></td>
